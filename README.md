@@ -86,6 +86,8 @@ plt.show()
 ```
 ## Output Waveform
 ![image](https://github.com/user-attachments/assets/1d0757e1-176a-4875-af9a-a7d6cdb9129f)
+![loge qpsk](https://github.com/user-attachments/assets/b38faa7f-a500-4e22-bd0a-5caf7f77782c)
+
 
 
 ## Result
